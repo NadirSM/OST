@@ -1,4 +1,4 @@
-#include<studio.n>
+#include<stdio.n>
 void.mian()
 {
  printf("Hellow Word...!!!")
