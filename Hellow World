@@ -1,0 +1,5 @@
+#include<studio.n>
+void.mian()
+{
+ printf("Hellow Word...!!!")
+}
